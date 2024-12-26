@@ -100,11 +100,3 @@ git clone https://github.com/hieunm2000/global-superstore-sales.git
 Mở file Power BI (.pbix) bằng Power BI Desktop.
 
 Khám phá bảng điều khiển và báo cáo tương tác.
-
----
-
-## Yêu Cầu
-
-Power BI Desktop: Phiên bản XX.X hoặc mới hơn.
-
-Tập Dữ Liệu: Đã được tải sẵn trong file Power BI.
