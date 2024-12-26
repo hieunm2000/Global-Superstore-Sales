@@ -95,7 +95,7 @@ Kho lưu trữ này chứa các thông tin và biểu đồ được tạo ra t�
 
 Clone kho lưu trữ:
 
-git clone https://github.com/yourusername/global-superstore-sales.git
+git clone https://github.com/hieunm2000/global-superstore-sales.git
 
 Mở file Power BI (.pbix) bằng Power BI Desktop.
 
