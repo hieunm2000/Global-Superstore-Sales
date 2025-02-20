@@ -79,17 +79,23 @@
 ### 1. Overview
 
 
-![Screenshot 2025-02-13 153652](https://github.com/user-attachments/assets/e486bae8-28dd-4fb0-82ba-8b927e614076)
+
+![Screenshot 2025-02-20 125700](https://github.com/user-attachments/assets/a93d9c6d-4cba-4985-bd88-44f2d01dd7ff)
 
 
 ### 2. Product Strategy
 
 
-![Screenshot 2025-02-13 153217](https://github.com/user-attachments/assets/c089904b-d496-4102-b7b1-1b03a24c3772)
+![Screenshot 2025-02-20 125712](https://github.com/user-attachments/assets/161bff1f-c4fd-4ac2-bc77-16c0d9d4fedf)
+
 
 ### 3. Returns Analysis
 
-![Screenshot 2025-02-13 153221](https://github.com/user-attachments/assets/266c926d-42b3-4214-b6d7-0ddd4219d5f9)
+![Screenshot 2025-02-20 125720](https://github.com/user-attachments/assets/aa0431ba-2962-43b2-8812-03349820c92b)
+
+### 4. Regional Analysis
+
+![Screenshot 2025-02-20 125729](https://github.com/user-attachments/assets/ca45b826-2c0e-4c87-87fe-4206c5312029)
 
 
 ## IV. Insights
