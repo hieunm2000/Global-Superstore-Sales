@@ -29,44 +29,57 @@
 **Here are the five steps of design thinking:**
 
 ### Step 1 - Empathize
-  #### Goal: Understand the needs of the Senior Manager and other stakeholders.
-  - Interviews & Research:
-      - The Senior Manager wants to understand overall business performance and market expansion opportunities.
-      - Needs insights on top-selling products, potential regions & reasons for returns.
-      - Data from Orders, People, and Returns will be analyzed to provide a comprehensive view.
-  - Key Questions:
-      - How do revenue and profit vary across regions and product categories?
-      - Does the return rate significantly impact revenue? What are the main reasons?
-      - Which regions show strong growth potential, and which need improvement?
-    
+#### 5W1H
+
+![Screenshot 2025-02-24 111003](https://github.com/user-attachments/assets/a768201a-7f7d-4c5b-a38e-5662d9a70e62)
+
+#### EMPATHY MAP
+
+![Screenshot 2025-02-24 111041](https://github.com/user-attachments/assets/330b6cf3-1493-4c40-8765-5f9329f6d73b)
+
+#### STAKEHOLDER JOURNEY
+
+![Screenshot 2025-02-24 111108](https://github.com/user-attachments/assets/695605eb-d888-4e54-bdcc-65722b2c64db)
+
 ### Step 2 - Define
-  - Core Problem: The Senior Manager requires a visual dashboard to:
-      - Evaluate business performance (Revenue, profit, return rate).
-      - Identify potential markets for expansion.
-      - Select strategic products based on sales and profit margins.
-      - Understand reasons for product returns and reduce negative impacts.
+#### Northstar Metric
+
+![Screenshot 2025-02-24 111139](https://github.com/user-attachments/assets/3b5ceb92-bf0b-4536-b775-8c32de455564)
+
+#### Define Point of View
+
+![Screenshot 2025-02-24 111230](https://github.com/user-attachments/assets/4fc783bc-6b49-4e11-b08e-2f68ab8d162e)
+
+#### Growth Formula
+
+![Screenshot 2025-02-24 111253](https://github.com/user-attachments/assets/a92de6de-8e1b-4102-ad8c-97632e28462c)
+
 
 ### Step 3 - Ideate
 
-  #### Key elements for the dashboard:
-  - Business Performance Overview:
-    - Revenue & profit by time, region, and product category.
-    - Trend analysis of sales over the years.
-  - Market Expansion Analysis:
-    - Ranking of regions by profit and growth potential.
-    - Heatmap displaying performance across regions.
-  - Strategic Product Selection:
-    - Top-selling products by revenue & profit.
-    - Profit margin for each product category.
-  - Returns Analysis:
-    - Return rate by region & category.
-    - Main reasons for product returns.
+#### BRAINSTORMING
+
+![Screenshot 2025-02-24 111654](https://github.com/user-attachments/assets/0358b8d0-ebbf-41a1-b9df-d01d359fad6d)
+
+#### STRUCTURE IDEA
+
+![Screenshot 2025-02-24 111934](https://github.com/user-attachments/assets/0b33c709-6abf-4912-a9e1-ace0c0a516c6)
 
 ### Step 4 - Prototype
   #### Initial Dashboard Design:
-  - Page 1: Overview → Summary of revenue, profit, products & regions.
-  - Page 2: Product Strategy → Strategic products, profit margins & revenue.
-  - Page 3: Returns Analysis → Reasons for returns & impact assessment.
+  - Page 1: Overview
+    ![Screenshot 2025-02-24 114544](https://github.com/user-attachments/assets/0aa5e454-1657-459e-94f7-a3715062e038)
+
+  - Page 2: Product
+    ![Screenshot 2025-02-24 114653](https://github.com/user-attachments/assets/f9414c06-dc25-4d8f-9f17-15316eef5e10)
+
+  - Page 3: Profit & Return of Sale
+    ![Screenshot 2025-02-24 114703](https://github.com/user-attachments/assets/f5c30b07-77c8-42b6-9b4a-e83dc810072a)
+
+  - Page 4: Custommers
+    
+    ![Screenshot 2025-02-24 114710](https://github.com/user-attachments/assets/c2ec7da7-3a39-4c09-a7eb-a7baa555c634)
+
   #### Tools Used:
    - **Power BI** for data visualization.
 
@@ -74,31 +87,8 @@
 
 - Review each part of the report
 
-## III. Visualization
 
-### 1. Overview
-
-
-
-![Screenshot 2025-02-20 125700](https://github.com/user-attachments/assets/a93d9c6d-4cba-4985-bd88-44f2d01dd7ff)
-
-
-### 2. Product Strategy
-
-
-![Screenshot 2025-02-20 125712](https://github.com/user-attachments/assets/161bff1f-c4fd-4ac2-bc77-16c0d9d4fedf)
-
-
-### 3. Returns Analysis
-
-![Screenshot 2025-02-20 125720](https://github.com/user-attachments/assets/aa0431ba-2962-43b2-8812-03349820c92b)
-
-### 4. Regional Analysis
-
-![Screenshot 2025-02-20 125729](https://github.com/user-attachments/assets/ca45b826-2c0e-4c87-87fe-4206c5312029)
-
-
-## IV. Insights
+## III. Insights
   ### 1. Sales & Profitability
 - **Total Sales**: $9.48M, with the highest contributions from **APAC** (28.55%), followed by **EU** (22.05%) and **US** (18.95%).
 - **Profit Distribution**: Certain high-sales regions like APAC have lower profitability, indicating possible high operational costs or return rates.
@@ -118,7 +108,7 @@
     - Most Returned Products:
         - **Technology-related products (smartphones, printers, routers)** have the highest return rate.
         - **Office supplies like envelopes and binders** also experience notable returns.
-## V. Recommendations
+## IV. Recommendations
 
 ### 1. Optimize Market Strategy & Expansion
   - Expand in high-growth regions (APAC & EU) but optimize costs to improve profitability.
