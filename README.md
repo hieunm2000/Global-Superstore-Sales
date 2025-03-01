@@ -68,17 +68,19 @@
 ### Step 4 - Prototype
   #### Initial Dashboard Design:
   - Page 1: Overview
-    ![Screenshot 2025-02-24 114544](https://github.com/user-attachments/assets/0aa5e454-1657-459e-94f7-a3715062e038)
+    ![Screenshot 2025-03-01 140847](https://github.com/user-attachments/assets/3db91061-e6f6-4cba-b010-d6205556ee0f)
 
   - Page 2: Product
-    ![Screenshot 2025-02-24 114653](https://github.com/user-attachments/assets/f9414c06-dc25-4d8f-9f17-15316eef5e10)
+    ![Screenshot 2025-03-01 140857](https://github.com/user-attachments/assets/b6d57486-d48d-4d81-bfb8-f17c67679f18)
 
+   
   - Page 3: Profit & Return of Sale
-    ![Screenshot 2025-02-24 114703](https://github.com/user-attachments/assets/f5c30b07-77c8-42b6-9b4a-e83dc810072a)
+    ![Screenshot 2025-03-01 140916](https://github.com/user-attachments/assets/3db80140-87fb-4e20-baf1-65641d1796cc)
 
-  - Page 4: Custommers
     
-    ![Screenshot 2025-02-24 114710](https://github.com/user-attachments/assets/c2ec7da7-3a39-4c09-a7eb-a7baa555c634)
+  - Page 4: Custommers
+    ![Screenshot 2025-03-01 140907](https://github.com/user-attachments/assets/d281b1b6-5dbd-41e3-92eb-d8f4bfb98b64)
+
 
   #### Tools Used:
    - **Power BI** for data visualization.
